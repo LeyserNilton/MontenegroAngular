@@ -1,0 +1,10 @@
+.btn {
+    background: blue;
+    color: white;
+    display: block;
+    margin: 4px;
+}
+
+.col-12 {
+    background-color: bisque;
+}
